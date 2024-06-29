@@ -1,6 +1,6 @@
 @media only screen and (max-width: 1090px) {
     map iframe, .hero-content img{
-        width: 300px !important;
+        width: 360px !important;
     }
     .hero div div h1{
         font-size: 2rem !important;
